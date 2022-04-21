@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(199, 199, 199);
+}
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+h1{
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: magenta;
+}
+table{
+    width: 600px;
+    margin: 0 auto;
+    border: 3px solid black;
+}
+thead th{
+    border: 2px solid rgb(58, 58, 58);
+}
+tbody tr td{
+    border: 2px solid rgb(0, 92, 179);
+}
+.color{
+    color: blue;
+}
+.bgcolor{
+    background-color: cyan;
+}
+.font{
+    font-size: 30px;
+}
